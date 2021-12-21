@@ -32,3 +32,5 @@ Although never is often better than *right* now.\
 If the implementation is hard to explain, it's a bad idea.\
 If the implementation is easy to explain, it may be a good idea.\
 Namespaces are one honking great idea -- let's do more of those!
+
+**NOTA**: Para poder visualizar las notas y entender un poco más este repositorio, te invito a revisar la carpeta ```notebooks``` donde encontraras el notebook principal de Python Intermedio 🐍
